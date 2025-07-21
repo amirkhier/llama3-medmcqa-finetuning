@@ -121,9 +121,14 @@ model.push_to_hub("your-username/llama3-medmcqa")
 
 ## ✍️ Author
 
-* **Amir Khier** – [LinkedIn](https://www.linkedin.com/in/amir-khier-9b8007198/) | [GitHub](https://github.com/amirkhier)
+* **Amir Khier** – [LinkedIn](https://www.linkedin.com/in/amir-khier-9b8007198/) | [GitHub](https://github.com/amirkhier) | [HuggingFace](https://huggingface.co/Amir32432)
 
+📦 Deployed Model
+🚀 The fine-tuned model is available on Hugging Face:
+
+👉 [Amir32432/llama3-medmcqa-AmirKhier](https://huggingface.co/Amir32432/llama3-medmcqa-AmirKhier)
 ---
+
 
 ## 📜 License
 
