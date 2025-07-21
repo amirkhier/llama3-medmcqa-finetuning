@@ -90,7 +90,7 @@ jupyter notebook FineTuning_FinalProject_ِAmirKhier.ipynb
 ## ⚙️ Training Overview
 
 * **Model**: `meta-llama/Llama-3.1-8B`
-* **Tokenizer**: Adjusted for `max_length=512`, truncation, and padding.
+* **Tokenizer**: Adjusted for `max_length=256`, truncation, and padding.
 * **PEFT**: Parameter-efficient fine-tuning applied.
 * **Loss Function**: Cross-entropy over multiple-choice answers.
 * **Evaluation**: Accuracy on `validation` split.
