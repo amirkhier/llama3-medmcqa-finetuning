@@ -103,7 +103,7 @@ jupyter notebook FineTuning_FinalProject_ِAmirKhier.ipynb
 ---
 ### 📉 Training vs. Validation Loss
 
-![Loss Curves](<img width="863" height="470" alt="image" src="https://github.com/user-attachments/assets/d19a9eb9-aff4-4c2b-9d4e-5ecb3e80541a" />
+![Loss Curves](<img width="863" height="470" alt="image" src="https://github.com/user-attachments/assets/f3567c21-da7c-4e81-b893-f9fa4b7de96c" />
 )
 
 ## 📦 Export / Deployment (Optional)
