@@ -4,7 +4,7 @@ Sure! Here's the full `README.md` content, ready for you to copy and paste:
 
 ---
 
-```markdown
+
 # 🧠 Fine-Tuning LLaMA3 on MedMCQA – Final Project
 
 This project demonstrates how to fine-tune the `meta-llama/Llama-3.1-8B-Instruct` model using the [MedMCQA](https://huggingface.co/datasets/openlifescienceai/medmcqa) dataset. The notebook covers preprocessing, model preparation, training, and evaluation of performance on medical multiple-choice QA tasks.
@@ -13,7 +13,7 @@ This project demonstrates how to fine-tune the `meta-llama/Llama-3.1-8B-Instruct
 
 ## 📁 Project Structure
 
-```
+
 
 📦 FineTuning\_FinalProject\_AmirKhier
 ┣ 📜 FineTuning\_FinalProject\_ِAmirKhier.ipynb
