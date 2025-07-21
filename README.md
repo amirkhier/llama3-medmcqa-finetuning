@@ -52,7 +52,7 @@ This project demonstrates how to fine-tune the `meta-llama/Llama-3.1-8B-Instruct
 - Hugging Face Transformers & Datasets
 - LLaMA3 (Meta)
 - PyTorch (backend)
-- Google Colab (T4 GPU)
+- Google Colab (A100 GPU)
 
 ---
 
